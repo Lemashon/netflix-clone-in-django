@@ -1,4 +1,6 @@
 This is a netflix clone created by Django & Python.
+Run the main.py file using python manage.py runserver.
+Open your local browser and type http://localhost:8000/
 <img width="960" alt="Netflix home page" src="https://user-images.githubusercontent.com/106112664/204096741-3de43680-1576-43c1-800d-a49074f4dd15.png">
 <img width="960" alt="More photos" src="https://user-images.githubusercontent.com/106112664/204096738-0c44c652-3fb1-4d81-9b9f-2482821e7c5e.png">
 <img width="960" alt="Netflix more photos" src="https://user-images.githubusercontent.com/106112664/204096742-bd3b900e-8712-4594-b02c-632e6af11b10.png">
